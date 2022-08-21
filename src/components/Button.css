@@ -10,14 +10,14 @@ button {
 }
 
 button:hover {
-    color: rgb(61, 43, 184);
+    background-color: rgb(61, 43, 184);
 }
 
-.equal {
+.equals {
     grid-column: 3 / 5;
     background-color: rgb(243, 61, 29);
 }
 
-.equal:hover {
-    color: rgb(228, 39, 15);
+.equals:hover {
+    background-color: rgb(228, 39, 15);
 }
